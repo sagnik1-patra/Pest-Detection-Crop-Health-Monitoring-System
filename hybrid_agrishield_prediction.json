@@ -1,0 +1,23 @@
+{
+    "optimizer": "Hybrid AIS + PSO",
+    "best_learning_rate": 0.01,
+    "best_dropout": 0.2243145324303658,
+    "accuracy": 0.2549019607843137,
+    "confusion_matrix": [
+        [
+            1,
+            22,
+            0
+        ],
+        [
+            0,
+            12,
+            0
+        ],
+        [
+            3,
+            13,
+            0
+        ]
+    ]
+}
