@@ -1,0 +1,3 @@
+best_dropout: 0.3122780607339803
+best_learning_rate: 0.01
+optimizer: Hybrid AIS + GWOA

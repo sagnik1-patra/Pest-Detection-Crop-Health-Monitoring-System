@@ -1,0 +1,3 @@
+best_dropout: 0.2858782969012166
+best_learning_rate: 0.01
+optimizer: Hybrid AIS + QPSO
