@@ -1,4 +1,4 @@
-🌿 AgriShield — AI-Driven Pest Detection & Crop Health Monitoring System
+🌿 AgriShield — AI-Driven Pest Detection & Crop Health Monitoring System.
 
 Hybrid Model: Artificial Immune System (AIS) + Grey Wolf Optimizer Advanced (GWOA)
 
